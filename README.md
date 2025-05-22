@@ -6,3 +6,4 @@ Latest Update V2.0
 Latest Update V3.0
 Latest Update V4.0
 Latest Update V5.0
+Latest Update V6.0
